@@ -11,7 +11,7 @@ import {
 import * as I from 'lucide-react';
 import './styles.css';
 
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = 'https://governed-ai-accelerator-backend.onrender.com';
 
 /* =========================
    BACKEND DATA
